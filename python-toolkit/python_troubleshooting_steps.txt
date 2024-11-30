@@ -1,0 +1,22 @@
+Troubleshooting Steps for Python Installation and Dependencies:
+
+1. Open the Command Prompt (cmd.exe) and run the following command to verify Python is installed and accessible:
+   python --version
+
+If Python is installed correctly, you should see the version number printed in the Command Prompt.
+
+2. If the above command does not work, or if you encounter any issues with Python, you may need to reinstall Python or add it to the system PATH manually. Follow the instructions in the python3_install_instructions.txt file to ensure a proper installation.
+
+3. Once Python is installed and accessible, you need to install the required libraries for the KaliLinux_PythonCoding.py script. Open the Command Prompt and run the following commands:
+
+   pip install python-nmap
+   pip install pexpect
+
+These commands will install the nmap and pexpect libraries, which are used in the script for running nmap scans and interacting with the metasploit console, respectively.
+
+4. After installing the required libraries, try running the KaliLinux_PythonCoding.py script again using the following command:
+   python KaliLinux_PythonCoding.py
+
+If the script runs successfully, you should see the printed messages indicating the progress of each function call (nmap_scan(), bettercap_attack(), metasploit_exploit()).
+
+If you continue to encounter issues or errors, please provide the error messages or any additional information that may help me troubleshoot further.

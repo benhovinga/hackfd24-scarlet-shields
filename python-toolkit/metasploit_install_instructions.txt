@@ -1,0 +1,16 @@
+Instructions to Install Metasploit on WSL Kali Linux:
+
+1. Open a new terminal window in WSL Kali Linux.
+
+2. Run the following command to update the package lists:
+   sudo apt update
+
+3. Install metasploit by running:
+   sudo apt install metasploit-framework
+
+4. Once installed, you can launch metasploit by running:
+   msfconsole
+
+5. After following these steps, metasploit should be installed and ready to use on your WSL Kali Linux environment.
+
+Let me know once you have installed metasploit successfully. We can then proceed with running the metasploit_exploit() function in the Python script.

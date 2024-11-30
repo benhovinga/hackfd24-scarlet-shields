@@ -1,0 +1,21 @@
+Instructions to Install Python 3 on Windows:
+
+1. Go to the official Python website: https://www.python.org/downloads/windows/
+2. Under the "Stable Releases" section, download the latest version of Python 3 by clicking on the "Windows installer" link.
+3. Run the downloaded installer and make sure to check the "Add Python to PATH" option during the installation process.
+4. Once the installation is complete, open the Command Prompt (cmd.exe) and run the following command to verify Python 3 is installed:
+   python --version
+
+If Python 3 is installed correctly, you should see the version number printed in the Command Prompt.
+
+5. If you encounter any issues or the python command is not recognized, you may need to add Python to the system PATH manually:
+   - Open the Start menu and search for "Environment Variables"
+   - Click on "Edit the system environment variables"
+   - Click the "Environment Variables" button
+   - Under "System Variables", scroll down and find the "Path" variable, then click "Edit"
+   - Click "New" and add the path to your Python installation (e.g., C:\Python39\ for Python 3.9)
+   - Click "OK" to save the changes and close all windows
+
+After following these steps, Python 3 should be installed and configured correctly on your Windows system. You should then be able to run the KaliLinux_PythonCoding.py script without any issues.
+
+Let me know if you have any further questions or need additional assistance.
