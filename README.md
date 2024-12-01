@@ -5,16 +5,27 @@ HackFD 2024 is the _Canadian Army's_ first annual Hackathon. This repository con
 > A _Hackathon_ is an event where people engage in rapid and collaborative engineering over a relatively short period of time such as 24 or 48 hours. It's origin is a combination of "hack" and "marathon", where "hack" is used in the sense of exploratory programming.
 
 ## Table of Contents
-- Team Scarlet Sheilds
-- Project Scarlet Sword
+- [Team Scarlet Sheilds](#team-scarlet-sheilds)
+  - [Team Members](#team-members)
+- [Project Scarlet Sword](#project-scarlet-sword)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Roadmap](#)
+  - [Roadmap](#roadmap)
+  - [License](#license)
+  - [Acknowledgments](#acknowledgments)
+  - [Disclaimer](#disclaimer)
  
 # Team Scarlet Sheilds
 
 The _Scarlet Sheilds_ is _5th Canadian Division's_ Team 1 submission to the _Canadian Army's_ HackFd 2024.
+
+## Team Members
+
+- Capt Johnny Woodgate
+- Cpl Ben Hovinga
+- Cpl Dominick Goertzen
+- Cpl Hugo Chiasson
 
 # Project Scarlet Sword
 
@@ -88,9 +99,9 @@ Future improvements that may be implemented:
 
 - GUI interface (WIP)
 - Additional security tools integration
-- Advanced reporting features
+- Advanced reporting and logging features
 - Automated testing capabilities
-- Configuration management
+- Configuration management dashboard
 
 ## License
 
