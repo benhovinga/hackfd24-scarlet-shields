@@ -1,6 +1,6 @@
 # HackFD 2024
 
-HackFD 2024 is the _Canadian Army's_ first annual Hackathon. This repository contains team _Scarlet Shields_ project submission the _Scarlet Sword_.
+HackFD 2024 is the _Canadian Army's_ first annual Hackathon. This repository contains team _Scarlet Shields_ project submission, the _Scarlet Sword_.
 
 > A _Hackathon_ is an event where people engage in rapid and collaborative engineering over a relatively short period of time such as 24 or 48 hours. It's origin is a combination of "hack" and "marathon", where "hack" is used in the sense of exploratory programming.
 
