@@ -1,10 +1,24 @@
-# HackFD 2024 - Team Scarlet Shields
+# HackFD 2024
 
-HackFD 2024 is the Canadian Army's first annual Hackathon. This repository is team _Scarlet Shields_ project submission.
+HackFD 2024 is the _Canadian Army's_ first annual Hackathon. This repository contains team _Scarlet Shields_ project submission the _Scarlet Sword_.
+
+> A _Hackathon_ is an event where people engage in rapid and collaborative engineering over a relatively short period of time such as 24 or 48 hours. It's origin is a combination of "hack" and "marathon", where "hack" is used in the sense of exploratory programming.
+
+## Table of Contents
+- Team Scarlet Sheilds
+- Project Scarlet Sword
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Roadmap](#)
+ 
+# Team Scarlet Sheilds
+
+The _Scarlet Sheilds_ is _5th Canadian Division's_ Team 1 submission to the _Canadian Army's_ HackFd 2024.
 
 # Project Scarlet Sword
 
-A comprehensive security testing tool built in Python that integrates Nmap, Bettercap, and Metasploit functionalities with secure implementation and proper error handling.
+A security testing suite prioritizing quick and efficient execution of common open source ITSec tools. In this itteration of the HackFD idea we use Nmap, Bettercap, and Metasploit functionalities.
 
 This tool provides a command-line interface for common security testing operations, including:
 
@@ -82,10 +96,11 @@ Future improvements that may be implemented:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Copyright (c) 2024 Ben Hovinga, Dominick Goertzen, Hugo Chiasson, Johnny Woodgate
+Copyright (c) 2024 Dominick Goertzen, Ben Hovinga, Johnny Woodgate, Hugo Chiasson
 
 ## Acknowledgments
 
+- [Python Project](https://www.python.org/)
 - [Nmap Project](https://nmap.org/)
 - [Bettercap Project](https://www.bettercap.org/)
 - [Metasploit Framework](https://www.metasploit.com/)
